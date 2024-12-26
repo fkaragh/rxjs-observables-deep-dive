@@ -1,6 +1,17 @@
-# Rxjs
+# Rxjs Observables Deep Dive
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
+
+## Purpose
+
+The purpose of this application is to provide a deep dive into understanding RxJS and Observables. 
+It demonstrates ; 
+-How to work with "Streams of Data" using Angular and RxJS,
+-Showcasing various RxJS operators and Angular's integration with RxJS.
+
+## Screenshots
+
+![1](https://github.com/user-attachments/assets/bbf3151b-11f2-46f7-87fc-1e8f26807170)
 
 ## Development server
 
